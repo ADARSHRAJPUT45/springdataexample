@@ -13,9 +13,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author rishi
- */
+
 @Service
 public class DepartmentServiceImpl implements DepartmentService {
 

@@ -5,9 +5,7 @@ import lombok.Setter;
 
 import javax.persistence.Id;
 
-/**
- * @author rishi
- */
+
 @Getter
 @Setter
 public class EmployeeRequestDto {

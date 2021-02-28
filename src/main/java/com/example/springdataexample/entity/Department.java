@@ -11,9 +11,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 import java.util.List;
 
-/**
- * @author rishi
- */
+
 @Entity
 @Data
 public class Department {

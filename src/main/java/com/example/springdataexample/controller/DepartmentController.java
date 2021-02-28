@@ -7,9 +7,6 @@ import com.example.springdataexample.service.DepartmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author rishi
- */
 @RestController
 @RequestMapping("/department")
 public class DepartmentController {

@@ -5,9 +5,7 @@ import com.example.springdataexample.dto.EmployeeResponseDto;
 
 import java.util.List;
 
-/**
- * @author rishi
- */
+
 public interface EmployeeService {
 
   EmployeeResponseDto createEmployee(EmployeeRequestDto employeeRequestDto);

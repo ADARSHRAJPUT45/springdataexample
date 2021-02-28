@@ -8,9 +8,7 @@ import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
-/**
- * @author rishi
- */
+
 public interface EmployeeRepository
     extends CrudRepository<Employee, Long> {
 

@@ -4,9 +4,7 @@ import com.example.springdataexample.entity.Department;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * @author rishi
- */
+
 @Getter
 @Setter
 public class EmployeeResponseDto {
